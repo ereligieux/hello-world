@@ -4,7 +4,7 @@ resources:
   source:
     uri: https://github.com/ereligieux/hello-world.git
     username: ereligieux
-    password: 3xcelDragon77!
+    password: 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
 
 jobs:
 - name: hello-world-job
